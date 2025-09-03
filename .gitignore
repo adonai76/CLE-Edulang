@@ -35,6 +35,3 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-
-# === VS Code ===
-.vscode/
